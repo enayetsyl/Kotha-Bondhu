@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite
+
+# Virtual environments
+venv/
+.env
+
+# Audio artifacts
+*.wav
+/data/audio/*
+!data/audio/.gitkeep
+
+# OS noise
+.DS_Store
+Thumbs.db
