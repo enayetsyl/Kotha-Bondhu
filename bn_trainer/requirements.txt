@@ -1,0 +1,8 @@
+faster-whisper
+sounddevice
+numpy
+rapidfuzz
+python-dotenv
+simpleaudio
+torch
+torchaudio
